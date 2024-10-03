@@ -1,15 +1,6 @@
 # Space Invaders Clone
 
-![Space Invaders Banner](https://github.com/yourusername/space-invaders-clone/blob/main/banner.png)
-
 Welcome to the **Space Invaders Clone**, a classic arcade-style game recreated using Python and Pygame. Engage in an intergalactic battle by controlling your spaceship, dodging enemy attacks, and shooting down waves of enemies to achieve the highest score!
-
-
-## Demo
-
-![Gameplay Screenshot](https://github.com/yourusername/space-invaders-clone/blob/main/screenshot.png)
-
-*Note: Replace the above image links with actual screenshots of your game.*
 
 ## Features
 
@@ -74,8 +65,6 @@ Follow these instructions to set up and run the game on your local machine.
    - `explosion.wav`: Sound effect for explosions.
    - `Crashed Scoreboard.ttf`: Font file for score and game over text.
 
-   *If any assets are missing, add them to the project directory or update the code to reference existing assets.*
-
 ## How to Play
 
 1. **Start the Game**
@@ -103,21 +92,6 @@ Follow these instructions to set up and run the game on your local machine.
 - **Move Left:** Press the **Left Arrow** key or **'A'**.
 - **Move Right:** Press the **Right Arrow** key or **'D'**.
 - **Shoot Bullet:** Press the **Spacebar** or **'S'**.
-
-*Feel free to customize the controls in the code to your preference.*
-
-## Screenshots
-
-![Game Start](https://github.com/yourusername/space-invaders-clone/blob/main/screenshot_start.png)
-*Game Start Screen*
-
-![Gameplay](https://github.com/yourusername/space-invaders-clone/blob/main/screenshot_gameplay.png)
-*In-Game Action*
-
-![Game Over](https://github.com/yourusername/space-invaders-clone/blob/main/screenshot_gameover.png)
-*Game Over Screen*
-
-*Replace the above image links with actual screenshots of your game.*
 
 ## Contributing
 
