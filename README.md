@@ -128,6 +128,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgements
 
 - **Pygame:** For providing the library that makes game development accessible in Python.
-- **OpenGameArt:** For providing free assets (if used).
 - **Original Space Invaders:** For inspiring this classic game remake.
 
